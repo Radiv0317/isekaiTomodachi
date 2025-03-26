@@ -1,18 +1,23 @@
-## Getting Started
+![isekaiTomodachi](https://github.com/Radiv0317/isekaiTomodachi/raw/main/assets/banner.png)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# 🌟 isekaiTomodachi
 
-## Folder Structure
+**isekaiTomodachi** is a terminal-based RPG adventure game built with Java. Dive into a world where you forge friendships, embark on quests, and explore a fantasy realm in an interactive text-based experience!
 
-The workspace contains two folders by default, where:
+## 📜 Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- 🏰 **Fantasy World Exploration** - Roam an immersive text-based universe.
+- 👫 **Friendship System** - Interact with characters and build relationships.
+- 🎭 **Engaging Storyline** - Experience an epic journey with choices that matter.
+- ⚔️ **Turn-based Combat** - Battle enemies strategically.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🛠️ Installation & Setup
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### Prerequisites
+- Ensure you have **Java JDK 17+** installed.
+- A terminal or command prompt to run the game.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Clone the Repository
+```sh
+ git clone https://github.com/Radiv0317/isekaiTomodachi.git
+ cd isekaiTomodachi
