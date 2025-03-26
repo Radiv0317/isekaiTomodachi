@@ -1,4 +1,4 @@
-![isekaiTomodachi](https://github.com/Radiv0317/isekaiTomodachi/raw/main/assets/banner.png](https://media1.tenor.com/m/iQR1abGe4KMAAAAC/isekai-anime.gif)
+![isekaiTomodachi](https://media1.tenor.com/m/iQR1abGe4KMAAAAC/isekai-anime.gif)
 
 # 🌟 isekaiTomodachi
 
