@@ -2,7 +2,7 @@
 ## U JUST GOT HIT BY A TRUCK, AND GOD SENT U TO ISEKAI
 # 🌟 WELCOME TO ISEKAI TOMODACHI
 
-**isekaiTomodachi** is a terminal-based RPG adventure game built with Java. Dive into a world where you forge friendships, embark on quests, and explore a fantasy realm in an interactive text-based experience!
+**Isekai Tomodachi** is a terminal-based RPG adventure game built with Java. Dive into a world where you forge friendships, embark on quests, and explore a fantasy realm in an interactive text-based experience!
 
 ## 📜 Features
 
