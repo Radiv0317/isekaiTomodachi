@@ -9,7 +9,7 @@ class Item {
     private final String name;
     private int healingAmount;
     private int upgradeLevel;
-    private final String type; // Tipe item (contoh: "Potion", "Weapon", "Armor")
+    private final String type; 
 
     public Item(String name, int healingAmount, String type) {
         this.name = name;
@@ -214,7 +214,7 @@ class Enemy {
     }
 
     public int attack() {
-        return random.nextInt(8) + 3; // Damage antara 3 - 10
+        return random.nextInt(8) + 3; 
     }
 
     public void takeDamage(int damage) {
